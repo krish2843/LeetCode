@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
