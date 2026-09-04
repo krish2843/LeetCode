@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
