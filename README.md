@@ -35,6 +35,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -115,4 +116,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1025-divisor-game/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
