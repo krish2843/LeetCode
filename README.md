@@ -14,6 +14,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2057-smallest-index-with-equal-value/) | Easy |
@@ -32,6 +33,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
