@@ -34,6 +34,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
