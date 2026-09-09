@@ -42,6 +42,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3870-count-commas-in-range](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3871-count-commas-in-range-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
