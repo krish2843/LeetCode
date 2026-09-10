@@ -37,6 +37,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
