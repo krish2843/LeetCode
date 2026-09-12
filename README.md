@@ -41,6 +41,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
+| [2469-convert-the-temperature](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3870-count-commas-in-range](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3870-count-commas-in-range/) | Easy |
