@@ -89,6 +89,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 ## String
@@ -145,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3668-restore-finishing-order](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
