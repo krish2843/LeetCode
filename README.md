@@ -38,6 +38,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
@@ -134,6 +135,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -152,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
