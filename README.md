@@ -18,6 +18,7 @@
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -164,4 +165,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
