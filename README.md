@@ -27,6 +27,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3668-restore-finishing-order](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
+| [3895-count-digit-appearances](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3870-count-commas-in-range](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3871-count-commas-in-range-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3895-count-digit-appearances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
