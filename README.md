@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
@@ -156,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
