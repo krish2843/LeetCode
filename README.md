@@ -18,6 +18,7 @@
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
@@ -37,6 +38,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +183,8 @@
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
