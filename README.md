@@ -93,6 +93,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Quicksort
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
+| [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [1025-divisor-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -195,4 +198,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1683-invalid-tweets](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
