@@ -191,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1683-invalid-tweets](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
