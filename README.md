@@ -202,6 +202,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [1683-invalid-tweets](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Memoization
