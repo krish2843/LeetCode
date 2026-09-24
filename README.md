@@ -29,6 +29,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3895-count-digit-appearances](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3895-count-digit-appearances/) | Medium |
@@ -63,6 +64,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2652-sum-multiples](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3895-count-digit-appearances/) | Medium |
