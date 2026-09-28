@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -48,6 +49,7 @@
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
