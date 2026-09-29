@@ -36,6 +36,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2951-find-the-peaks](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2951-find-the-peaks/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
@@ -228,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2951-find-the-peaks](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->
