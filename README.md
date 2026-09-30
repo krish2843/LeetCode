@@ -139,6 +139,7 @@
 | [0520-detect-capital](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0709-to-lower-case/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3019-number-of-changing-keys/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
