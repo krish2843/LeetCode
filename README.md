@@ -70,6 +70,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
@@ -111,6 +112,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@
 | [0058-length-of-last-word](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0520-detect-capital](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0709-to-lower-case/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3019-number-of-changing-keys/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
