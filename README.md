@@ -34,6 +34,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2057-smallest-index-with-equal-value/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2951-find-the-peaks](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2951-find-the-peaks/) | Easy |
@@ -56,6 +57,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
