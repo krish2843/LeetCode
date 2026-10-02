@@ -41,6 +41,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3745-maximize-expression-of-three-elements](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3745-maximize-expression-of-three-elements](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +243,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2951-find-the-peaks/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 <!---LeetCode Topics End-->
