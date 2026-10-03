@@ -147,6 +147,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3019-number-of-changing-keys/) | Easy |
+| [3163-string-compression-iii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3163-string-compression-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
