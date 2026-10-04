@@ -108,6 +108,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -142,6 +143,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
+| [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0709-to-lower-case/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
