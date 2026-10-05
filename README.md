@@ -148,6 +148,7 @@
 | [0709-to-lower-case](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0709-to-lower-case/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3019-number-of-changing-keys/) | Easy |
 | [3163-string-compression-iii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/3163-string-compression-iii/) | Medium |
 ## Divide and Conquer
@@ -202,6 +203,7 @@
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -247,4 +249,8 @@
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2951-find-the-peaks/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3745-maximize-expression-of-three-elements/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
