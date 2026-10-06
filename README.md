@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -107,6 +108,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
@@ -116,6 +118,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
