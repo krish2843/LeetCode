@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
@@ -155,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
