@@ -164,6 +164,7 @@
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0709-to-lower-case/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
@@ -286,6 +287,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0739-daily-temperatures/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
