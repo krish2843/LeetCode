@@ -152,6 +152,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
+| [0076-minimum-window-substring](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0076-minimum-window-substring/) | Hard |
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0709-to-lower-case/) | Easy |
@@ -221,6 +222,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0076-minimum-window-substring](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0076-minimum-window-substring/) | Hard |
 | [3668-restore-finishing-order](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -273,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0076-minimum-window-substring/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
