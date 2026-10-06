@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0041-first-missing-positive/) | Hard |
+| [0051-n-queens](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
@@ -320,4 +321,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
