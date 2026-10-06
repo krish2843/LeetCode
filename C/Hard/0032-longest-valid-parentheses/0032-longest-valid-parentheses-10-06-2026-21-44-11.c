@@ -1,0 +1,36 @@
+int longestValidParentheses(char* s) {
+
+    int n = strlen(s);
+
+    int* stack = malloc((n + 1) * sizeof(int));
+
+    int top = -1;
+    stack[++top] = -1;
+
+    int max = 0;
+
+    for (int i = 0; i < n; i++) {
+
+        if (s[i] == '(') {
+            stack[++top] = i;
+        }
+        else {
+
+            top--;
+
+            if (top == -1) {
+                stack[++top] = i;
+            }
+            else {
+                int len = i - stack[top];
+
+                if (len > max)
+                    max = len;
+            }
+        }
+    }
+
+    free(stack);
+
+    return max;
+}
