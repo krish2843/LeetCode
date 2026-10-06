@@ -143,6 +143,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
@@ -150,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0010-regular-expression-matching](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0076-minimum-window-substring/) | Hard |
@@ -183,6 +185,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
