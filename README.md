@@ -158,6 +158,7 @@
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0065-valid-number/) | Hard |
 | [0076-minimum-window-substring](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0076-minimum-window-substring/) | Hard |
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0520-detect-capital/) | Easy |
