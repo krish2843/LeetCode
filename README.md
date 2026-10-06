@@ -165,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bucket Sort
@@ -228,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 ## Prime Factorization
@@ -292,4 +294,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
