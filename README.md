@@ -18,6 +18,7 @@
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -282,6 +283,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0739-daily-temperatures/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
@@ -293,6 +295,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -330,4 +333,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0051-n-queens/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
