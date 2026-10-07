@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0041-first-missing-positive/) | Hard |
@@ -117,6 +118,7 @@
 | [0011-container-with-most-water](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
