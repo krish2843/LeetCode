@@ -76,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0292-nim-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/krish2843/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/krish2843/LeetCode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 ## Game Theory
 |  |
