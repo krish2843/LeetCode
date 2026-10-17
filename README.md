@@ -39,6 +39,7 @@
 | [0739-daily-temperatures](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/krish2843/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -107,6 +108,7 @@
 | [0164-maximum-gap](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/krish2843/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -131,6 +133,7 @@
 | [0283-move-zeroes](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/krish2843/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
