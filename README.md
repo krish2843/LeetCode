@@ -49,6 +49,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/krish2843/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krish2843/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2951-find-the-peaks/) | Easy |
@@ -112,6 +113,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/krish2843/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting Sort
