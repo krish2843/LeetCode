@@ -79,6 +79,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0231-power-of-two](https://github.com/krish2843/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/krish2843/LeetCode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0326-power-of-three/) | Easy |
@@ -159,6 +160,7 @@
 | ------- |
 | [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/krish2843/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
@@ -168,6 +170,7 @@
 | [0010-regular-expression-matching](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/krish2843/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 ## String
