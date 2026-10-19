@@ -160,6 +160,7 @@
 | ------- |
 | [0136-single-number](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/krish2843/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krish2843/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
@@ -198,6 +199,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/krish2843/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bucket Sort
 |  |
