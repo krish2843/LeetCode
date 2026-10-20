@@ -162,6 +162,7 @@
 | [0137-single-number-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/krish2843/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krish2843/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/krish2843/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
@@ -221,6 +222,7 @@
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
+| [0338-counting-bits](https://github.com/krish2843/LeetCode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
 | [1025-divisor-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 ## Brainteaser
