@@ -298,6 +298,7 @@
 | [0595-big-countries](https://github.com/krish2843/LeetCode/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/krish2843/LeetCode/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/krish2843/LeetCode/tree/master/1873-calculate-special-bonus) |
 ## Memoization
 |  |
 | ------- |
