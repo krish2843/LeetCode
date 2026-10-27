@@ -318,6 +318,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/krish2843/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -335,6 +336,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krish2843/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 ## Breadth-First Search
 |  |
@@ -343,6 +345,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krish2843/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 ## Heap (Priority Queue)
 |  |
@@ -380,4 +383,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krish2843/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
