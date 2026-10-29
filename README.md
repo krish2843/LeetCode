@@ -181,6 +181,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0010-regular-expression-matching](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/krish2843/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0065-valid-number/) | Hard |
@@ -316,6 +317,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krish2843/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/krish2843/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -368,6 +370,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krish2843/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
 ## Backtracking
 |  |
