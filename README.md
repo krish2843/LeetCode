@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -107,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -124,6 +126,7 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 ## Two Pointers
 |  |
@@ -132,6 +135,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0443-string-compression/) | Medium |
@@ -154,6 +158,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 ## Bit Manipulation
 |  |
