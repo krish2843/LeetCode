@@ -16,6 +16,7 @@
 | [0051-n-queens](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/krish2843/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/krish2843/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/krish2843/LeetCode/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
@@ -229,6 +231,7 @@
 | [0010-regular-expression-matching](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/krish2843/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/krish2843/LeetCode/tree/master/0338-counting-bits) |
