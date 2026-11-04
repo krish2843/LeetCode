@@ -146,6 +146,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/krish2843/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/krish2843/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krish2843/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Greedy
@@ -289,6 +290,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/krish2843/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krish2843/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prime Factorization
 |  |
 | ------- |
