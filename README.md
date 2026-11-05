@@ -33,6 +33,7 @@
 | [0162-find-peak-element](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/krish2843/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish2843/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -73,6 +74,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/krish2843/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krish2843/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -322,6 +324,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krish2843/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 ## Enumeration
 |  |
@@ -347,6 +350,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/krish2843/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
