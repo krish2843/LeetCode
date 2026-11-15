@@ -47,6 +47,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish2843/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -120,6 +121,7 @@
 | [0905-sort-array-by-parity](https://github.com/krish2843/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/krish2843/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1051-height-checker/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish2843/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/krish2843/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -382,6 +384,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krish2843/LeetCode/tree/main/C/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish2843/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish2843/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
