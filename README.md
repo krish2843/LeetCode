@@ -38,6 +38,7 @@
 | [0238-product-of-array-except-self](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/krish2843/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/krish2843/LeetCode/tree/main/C/Medium/0739-daily-temperatures/) | Medium |
@@ -116,6 +117,7 @@
 | [0075-sort-colors](https://github.com/krish2843/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish2843/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/krish2843/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/krish2843/LeetCode/tree/master/0905-sort-array-by-parity) |
