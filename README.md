@@ -95,6 +95,7 @@
 | [1025-divisor-game](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krish2843/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
@@ -183,6 +184,7 @@
 | [0338-counting-bits](https://github.com/krish2843/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/0342-power-of-four/) | Easy |
 | [0397-integer-replacement](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0397-integer-replacement/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krish2843/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 ## Recursion
 |  |
