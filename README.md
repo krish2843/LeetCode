@@ -102,6 +102,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/krish2843/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/2469-convert-the-temperature/) | Easy |
@@ -280,6 +281,7 @@
 | [0059-spiral-matrix-ii](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/krish2843/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/krish2843/LeetCode/tree/main/Java/Medium/2390-removing-stars-from-a-string/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/krish2843/LeetCode/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
